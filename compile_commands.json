@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/shottyman/Documents/Programming_Projects/HIPBasicRaytracer/build/src",
+  "command": "hipcc -DUSE_PROF_API=1 -D__HIP_PLATFORM_AMD__=1 -I/home/shottyman/Documents/Programming_Projects/HIPBasicRaytracer/includes -isystem /opt/rocm/include -isystem /opt/rocm/include/hiprand -isystem /opt/rocm/include/rocrand -g -O0 -x hip -o CMakeFiles/HIPRaytracing.dir/main.cxx.o -c /home/shottyman/Documents/Programming_Projects/HIPBasicRaytracer/src/main.cxx",
+  "file": "/home/shottyman/Documents/Programming_Projects/HIPBasicRaytracer/src/main.cxx",
+  "output": "src/CMakeFiles/HIPRaytracing.dir/main.cxx.o"
+}
+]

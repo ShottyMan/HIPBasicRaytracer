@@ -1,0 +1,6 @@
+/.cache
+/.clangd
+/.old
+/.vscode
+/build
+/test.png
