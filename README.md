@@ -4,6 +4,10 @@ This is just a little project for me to learn about raytracing and GPU kernel pr
 I have generally accomplished the goals that I set out for myself when writing this, 
 was to understand how these things work which I think I have a good grasp now. 
 
+I should mention that this project is based on the Raytracing in a Weekend book
+and borrowed alot from there. However the main challenge was to port it to work 
+in a GPU kernel. 
+
 I will most likely not come back to this but if you are interested in building:
 
 - Just git clone this repo
