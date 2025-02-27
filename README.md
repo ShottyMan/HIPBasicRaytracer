@@ -11,4 +11,5 @@ I will most likely not come back to this but if you are interested in building:
 - make a build dir and cd into it
 - cmake .. && make
 
-Linux is only supported with this and it requires rocm and HIP libraries & runtime in order to work. 
+Linux is only supported with this and it requires rocm and HIP libraries & runtime in order to work. In addition it utilizes
+the C STB library to generate a PNG. Drop the folder into the libs dir and the build system should be able to find it.
